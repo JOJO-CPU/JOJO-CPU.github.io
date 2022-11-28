@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Alimama ShuHeiTi";
+    src: url("Alimama_ShuHeiTi_Bold.eot"); /* IE9 */
+    src: url("Alimama_ShuHeiTi_Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Alimama_ShuHeiTi_Bold.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("Alimama_ShuHeiTi_Bold.woff") format("woff"), /* chrome, firefox */
+    url("Alimama_ShuHeiTi_Bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Alimama_ShuHeiTi_Bold.svg#Alimama ShuHeiTi") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
