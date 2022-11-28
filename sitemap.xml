@@ -209,6 +209,20 @@
 
   
   <url>
+    <loc>http://www.yueshan.asia/tags/hexo-asset-image%E6%8F%92%E4%BB%B6bug/</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.yueshan.asia/tags/vue3/</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.yueshan.asia/tags/vue2/</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,20 +266,6 @@
   
   <url>
     <loc>http://www.yueshan.asia/tags/vant/</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.yueshan.asia/tags/hexo-asset-image%E6%8F%92%E4%BB%B6bug/</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.yueshan.asia/tags/vue3/</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
