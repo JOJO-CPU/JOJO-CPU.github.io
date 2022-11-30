@@ -300,9 +300,9 @@ document.addEventListener('DOMContentLoaded', function () {
           $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
         }
       } else {
-        if (currentTop === 0) {
-          $header.classList.remove('nav-fixed', 'nav-visible')
-        }
+        // if (currentTop === 0) {
+        //   $header.classList.remove('nav-fixed', 'nav-visible')
+        // }
         $rightside.style.cssText = "opacity: ''; transform: ''"
       }
 
