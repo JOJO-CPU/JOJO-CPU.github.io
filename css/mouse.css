@@ -1,9 +1,1 @@
-/* 鼠标样式 */
-body {
-  cursor: url('/img/normal.cur'), default;
-}
-a,
-img,
-button {
-  cursor: url('/img/link.cur'), default !important;
-}
+body{cursor:url(/img/normal.cur),default}a,button,img{cursor:url(/img/link.cur),default!important}
