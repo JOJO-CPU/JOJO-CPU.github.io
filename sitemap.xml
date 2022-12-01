@@ -225,6 +225,13 @@
   </url>
   
   <url>
+    <loc>http://www.yueshan.asia/tags/vue3/</loc>
+    <lastmod>2022-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.yueshan.asia/tags/vue2/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -274,7 +281,7 @@
   </url>
   
   <url>
-    <loc>http://www.yueshan.asia/tags/vue3/</loc>
+    <loc>http://www.yueshan.asia/tags/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -282,13 +289,6 @@
   
   <url>
     <loc>http://www.yueshan.asia/tags/antd-vue/</loc>
-    <lastmod>2022-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.yueshan.asia/tags/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

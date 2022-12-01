@@ -300,14 +300,11 @@ document.addEventListener('DOMContentLoaded', function () {
           $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
         }
       } else {
-        // if (currentTop === 0) {
-        //   $header.classList.remove('nav-fixed', 'nav-visible')
-        // }
+        if (currentTop === 0) {
+          $header.classList.remove('nav-fixed', 'nav-visible')
+        }
         $rightside.style.cssText = "opacity: ''; transform: ''"
       }
-
-      // 不管咋样都fixed
-      $header.classList.add('nav-fixed')
 
       if (document.body.scrollHeight <= innerHeight) {
         $rightside.style.cssText = 'opacity: 0.8; transform: translateX(-58px)'
@@ -317,7 +314,11 @@ document.addEventListener('DOMContentLoaded', function () {
     window.scrollCollect = scrollTask
 
     window.addEventListener('scroll', scrollCollect)
+
   }
+
+
+
 
   /**
   * toc,anchor
